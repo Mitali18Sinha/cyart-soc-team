@@ -84,6 +84,7 @@ This project provides a comprehensive understanding of SOC operations, combining
 
 ## **Author**
 
-Name: MITALI SINHA
+MITALI SINHA
+SOC Intern @ CyArt
 
 ---
