@@ -1,8 +1,8 @@
-\# SOC Internship Project – Full Workflow Simulation
+# SOC Internship Project – Full Workflow Simulation
 
 
 
-\## Overview
+## Overview
 
 This project demonstrates a complete Security Operations Center (SOC) workflow, including log analysis, threat intelligence integration, alert triage, incident escalation, digital forensics, and a capstone attack simulation.
 
@@ -12,147 +12,147 @@ The objective of this project is to gain hands-on experience with real-world cyb
 
 
 
-\---
+---
 
 
 
-\## Objectives
+## Objectives
 
-\- Analyze and correlate logs to detect suspicious activities  
+- Analyze and correlate logs to detect suspicious activities  
 
-\- Integrate threat intelligence for alert enrichment  
+- Integrate threat intelligence for alert enrichment  
 
-\- Perform alert triage and IOC validation  
+- Perform alert triage and IOC validation  
 
-\- Simulate incident escalation workflows  
+- Simulate incident escalation workflows  
 
-\- Collect and preserve digital evidence  
+- Collect and preserve digital evidence  
 
-\- Execute and analyze a full SOC attack simulation  
+- Execute and analyze a full SOC attack simulation  
 
 
 
-\---
+---
 
 
 
-\## Tools \& Technologies Used
+## Tools \& Technologies Used
 
-\- Wazuh (SIEM)
+- Wazuh (SIEM)
 
-\- AlienVault OTX (Threat Intelligence)
+- AlienVault OTX (Threat Intelligence)
 
-\- VirusTotal (IOC Validation)
+- VirusTotal (IOC Validation)
 
-\- Metasploit (Attack Simulation)
+- Metasploit (Attack Simulation)
 
-\- CrowdSec (Response \& Blocking)
+- CrowdSec (Response \& Blocking)
 
-\- Velociraptor (Forensics)
+- Velociraptor (Forensics)
 
-\- FTK Imager (Evidence Collection)
+- FTK Imager (Evidence Collection)
 
-\- Google Sheets \& Docs
+- Google Sheets \& Docs
 
 
 
-\---
+---
 
 
 
-\## Key Modules
+## Key Modules
 
 
 
-\### 1. Advanced Log Analysis
+### 1. Advanced Log Analysis
 
-\- Log correlation of failed login attempts and network activity  
+- Log correlation of failed login attempts and network activity  
 
-\- Anomaly detection using threshold-based rules  
+- Anomaly detection using threshold-based rules  
 
-\- Log enrichment for contextual analysis  
+- Log enrichment for contextual analysis  
 
 
 
-\### 2. Threat Intelligence Integration
+### 2. Threat Intelligence Integration
 
-\- IOC validation using AlienVault OTX  
+- IOC validation using AlienVault OTX  
 
-\- Alert enrichment with threat intelligence  
+- Alert enrichment with threat intelligence  
 
-\- Threat hunting using MITRE ATT\&CK techniques  
+- Threat hunting using MITRE ATT\&CK techniques  
 
 
 
-\### 3. Incident Escalation
+### 3. Incident Escalation
 
-\- Simulation of SOC escalation workflow  
+- Simulation of SOC escalation workflow  
 
-\- SITREP (Situation Report) generation  
+- SITREP (Situation Report) generation  
 
-\- Automation using SOAR concepts  
+- Automation using SOAR concepts  
 
 
 
-\### 4. Alert Triage
+### 4. Alert Triage
 
-\- Analysis of PowerShell execution alert  
+- Analysis of PowerShell execution alert  
 
-\- IOC validation using VirusTotal and OTX  
+- IOC validation using VirusTotal and OTX  
 
 
 
-\### 5. Evidence Preservation
+### 5. Evidence Preservation
 
-\- Collection of network and memory data  
+- Collection of network and memory data  
 
-\- SHA-256 hashing for integrity verification  
+- SHA-256 hashing for integrity verification  
 
 
 
-\### 6. Capstone Project
+### 6. Capstone Project
 
-\- Attack simulation using Metasploit  
+- Attack simulation using Metasploit  
 
-\- Detection, triage, response, and escalation  
+- Detection, triage, response, and escalation  
 
-\- Full SOC workflow demonstration  
+- Full SOC workflow demonstration  
 
 
 
-\---
+---
 
 
 
-\## Outcome
+## Outcome
 
 This project successfully demonstrates the end-to-end SOC process, highlighting the importance of:
 
-\- Continuous monitoring  
+- Continuous monitoring  
 
-\- Threat intelligence integration  
+- Threat intelligence integration  
 
-\- Rapid incident response  
+- Rapid incident response  
 
-\- Proper evidence handling  
-
-
-
-\---
+- Proper evidence handling  
 
 
 
-\## Author
+---
+
+
+
+## Author
 
 &#x20;  **Mitali Sinha**  
 
 
 
-\---
+---
 
 
 
-\## Acknowledgment
+## Acknowledgment
 
 This project was completed as part of an internship to gain practical exposure to SOC operations and cybersecurity tools.
 
