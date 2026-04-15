@@ -82,3 +82,4 @@ This project demonstrates a complete SOC workflow including detection, analysis,
 
 ## Author
    Mitali Sinha
+   SOC Intern @ CyArt
