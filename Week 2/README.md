@@ -7,15 +7,6 @@ All tasks are documented with screenshots, analysis, and reports.
 
 ---
 
-## Folder Structure
-CyArt-soc-team/
-└── Week 2/
-    ├── SOC_Task_02
-    ├── Screenshots
-    └── README.md
-
----
-
 ## 1. Alert Management Practice
 - Created alert classification system using Google Sheets  
 - Assigned priorities based on CVSS scoring  
