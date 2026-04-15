@@ -145,6 +145,7 @@ This project successfully demonstrates the end-to-end SOC process, highlighting 
 ## Author
 
 &#x20;  **Mitali Sinha**  
+SOC Intern @ CyArt
 
 
 
